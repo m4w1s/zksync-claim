@@ -1,0 +1,10 @@
+{
+  "type": "module",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "dependencies": {
+    "ethers": "^6.13.0",
+    "got-scraping": "^4.0.6"
+  }
+}
